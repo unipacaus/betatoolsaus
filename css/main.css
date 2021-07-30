@@ -170,6 +170,11 @@ body{
 }
 
 @media screen and (max-width: 425px){
+
+    .nav{
+        margin: 5px 0;
+    }
+    
     .nav_logoimg {
         width: 60%;
     }
