@@ -4,9 +4,8 @@ body{
     background-image: url(../images/bg.svg);
     background-repeat: no-repeat;
     color: white;
-    font-weight: normal;
-    font-style: normal; 
-    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 
