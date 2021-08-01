@@ -8,6 +8,10 @@ body{
     -moz-osx-font-smoothing: grayscale;
 }
 
+img{
+    image-rendering: crisp-edges;
+}
+
 
 .nav{
     margin: 50px 0;
