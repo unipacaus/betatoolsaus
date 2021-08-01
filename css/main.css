@@ -4,6 +4,9 @@ body{
     background-image: url(../images/bg.svg);
     background-repeat: no-repeat;
     color: white;
+    -webkit-font-smoothing: antialiased;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
 }
 
 
