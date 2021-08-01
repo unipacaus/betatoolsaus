@@ -9,7 +9,7 @@ body{
 }
 
 img{
-    image-rendering: pixelated;
+    image-rendering: auto;
 }
 
 
